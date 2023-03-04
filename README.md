@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Senior Software Engineer in HSBC
 ### Mail: kunjian.peng@gmail.com 
-### Weclome to follow my Wechat subscription: KenjiTalk 😄
+### Welcome to follow my Wechat subscription: KenjiTalk 😄
 <!--
 **Kenji34/Kenji34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
