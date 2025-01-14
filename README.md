@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Senior Software Engineer in HSBC
+### Consultant Specialist in HSBC
 ### Mail: kunjian.peng@gmail.com 
 ### Welcome to follow my Wechat subscription: KenjiTalk 😄
 <!--
