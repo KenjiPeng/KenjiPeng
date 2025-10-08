@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Consultant Specialist in HSBC
+### Software Engineer in IBM
 ### Mail: kunjian.peng@gmail.com 
 ### Welcome to follow my Wechat subscription: KenjiTalk 😄
 <!--
